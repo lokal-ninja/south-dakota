@@ -1,0 +1,4 @@
+---
+title: "Leuder's Food Center"
+url: /belle-fourche/leuders-food-center/
+---
