@@ -1,6 +1,6 @@
 ---
 title: Huron
 url: /huron/
-latitude: 44.363080000000004
-longitude: -98.214388
+latitude: 44.346
+longitude: -98.215
 ---

@@ -1,6 +1,6 @@
 ---
 title: Flandreau
 url: /flandreau/
-latitude: 44.049416
-longitude: -96.595324
+latitude: 44.051
+longitude: -96.614
 ---

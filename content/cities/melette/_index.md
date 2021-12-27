@@ -1,6 +1,6 @@
 ---
 title: melette
 url: /melette/
-latitude: 
-longitude: 
+latitude: 45.159
+longitude: -98.511
 ---

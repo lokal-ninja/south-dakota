@@ -1,6 +1,6 @@
 ---
 title: Chamberlain
 url: /chamberlain/
-latitude: 43.810817
-longitude: -99.330178
+latitude: 43.768
+longitude: -99.313
 ---

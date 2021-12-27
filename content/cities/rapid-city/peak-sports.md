@@ -1,5 +1,5 @@
 ---
 title: "Peak Sports"
 url: /rapid-city/peak-sports/
-shop: sports
+shop: Sport
 ---

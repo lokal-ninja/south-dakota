@@ -1,5 +1,5 @@
 ---
 title: "Bomgaars"
 url: /chamberlain/bomgaars/
-shop: outdoor
+shop: Outdoor
 ---

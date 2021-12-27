@@ -1,6 +1,6 @@
 ---
 title: Mitchell
 url: /mitchell/
-latitude: 43.70953
-longitude: -98.025379
+latitude: 43.712
+longitude: -98.025
 ---

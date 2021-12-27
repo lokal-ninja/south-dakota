@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /chamberlain/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Warner
 url: /warner/
-latitude: 45.3256953
-longitude: -98.49539
+latitude: 45.326
+longitude: -98.496
 ---

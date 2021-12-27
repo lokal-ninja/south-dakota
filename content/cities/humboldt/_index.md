@@ -1,6 +1,6 @@
 ---
 title: Humboldt
 url: /humboldt/
-latitude: 43.645256
-longitude: -97.073947
+latitude: 43.647
+longitude: -97.089
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
 url: /sioux-falls/lenscrafters/
-shop: optician
+shop: Optiker
 ---

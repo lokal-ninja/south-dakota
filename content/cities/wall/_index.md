@@ -1,6 +1,6 @@
 ---
 title: Wall
 url: /wall/
-latitude: 43.992421
-longitude: -102.239981
+latitude: 43.989
+longitude: -102.243
 ---

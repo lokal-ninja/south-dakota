@@ -1,5 +1,5 @@
 ---
 title: "Badlands Trading Post"
 url: /philip/badlands-trading-post/
-shop: convenience
+shop: Lebensmittel
 ---

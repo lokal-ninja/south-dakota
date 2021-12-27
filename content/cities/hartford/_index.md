@@ -1,6 +1,6 @@
 ---
 title: Hartford
 url: /hartford/
-latitude: 43.623163000000005
-longitude: -96.942428
+latitude: 43.632
+longitude: -96.947
 ---

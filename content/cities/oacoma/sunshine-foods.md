@@ -1,5 +1,5 @@
 ---
 title: "Sunshine Foods"
 url: /oacoma/sunshine-foods/
-shop: supermarket
+shop: Supermarkt
 ---

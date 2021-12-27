@@ -1,6 +1,6 @@
 ---
 title: Rapid City
 url: /rapid-city/
-latitude: 
-longitude: 
+latitude: 44.079
+longitude: -103.254
 ---
