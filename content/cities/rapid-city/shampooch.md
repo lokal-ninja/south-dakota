@@ -1,5 +1,5 @@
 ---
 title: "ShamPooch"
 url: /rapid-city/shampooch/
-shop: Tiersalon
+shop: pet grooming
 ---

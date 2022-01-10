@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /sioux-falls/aldi-2/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Juneks"
 url: /spearfish/juneks/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Runnings"
 url: /watertown/runnings/
-shop: Warenhaus
+shop: department store
 ---

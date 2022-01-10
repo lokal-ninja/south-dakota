@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /rapid-city/maverik/
-shop: Lebensmittel
+shop: convenience
 ---

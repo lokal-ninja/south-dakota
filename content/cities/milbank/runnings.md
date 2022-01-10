@@ -1,5 +1,5 @@
 ---
 title: "Runnings"
 url: /milbank/runnings/
-shop: Baumarkt
+shop: doityourself
 ---

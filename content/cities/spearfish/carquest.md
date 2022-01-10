@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /spearfish/carquest/
-shop: Autoteile
+shop: car parts
 ---

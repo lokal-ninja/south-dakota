@@ -1,5 +1,5 @@
 ---
 title: "Salvation Army"
 url: /spearfish/salvation-army/
-shop: Kramladen
+shop: variety store
 ---

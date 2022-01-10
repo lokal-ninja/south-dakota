@@ -1,5 +1,5 @@
 ---
 title: "Canfield Business Interiors"
 url: /sioux-falls/canfield-business-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

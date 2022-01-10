@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /belle-fourche/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

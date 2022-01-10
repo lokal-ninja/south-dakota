@@ -1,5 +1,5 @@
 ---
 title: "Peterson Repair"
 url: /viborg/peterson-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

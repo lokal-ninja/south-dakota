@@ -1,5 +1,5 @@
 ---
 title: "Jerry's Chevrolet Buick GMC"
 url: /vermillion/jerrys-chevrolet-buick-gmc/
-shop: Autohaus
+shop: car
 ---

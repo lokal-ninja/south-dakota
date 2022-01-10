@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /aberdeen/claires/
-shop: Allgemein
+shop: shop
 ---

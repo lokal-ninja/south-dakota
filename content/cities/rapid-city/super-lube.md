@@ -1,5 +1,5 @@
 ---
 title: "Super Lube"
 url: /rapid-city/super-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

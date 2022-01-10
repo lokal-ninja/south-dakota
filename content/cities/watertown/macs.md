@@ -1,5 +1,5 @@
 ---
 title: "MAC'S"
 url: /watertown/macs/
-shop: Eisenwaren
+shop: hardware
 ---

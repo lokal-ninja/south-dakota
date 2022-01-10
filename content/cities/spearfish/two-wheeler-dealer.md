@@ -1,5 +1,5 @@
 ---
 title: "Two Wheeler Dealer"
 url: /spearfish/two-wheeler-dealer/
-shop: Fahrrad
+shop: bicycle
 ---

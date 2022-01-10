@@ -1,5 +1,5 @@
 ---
 title: "Sears"
 url: /spearfish/sears/
-shop: Warenhaus
+shop: department store
 ---

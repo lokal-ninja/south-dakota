@@ -1,5 +1,5 @@
 ---
 title: "Meineke Care Care Center"
 url: /rapid-city/meineke-care-care-center/
-shop: Autowerkstatt
+shop: car repair
 ---

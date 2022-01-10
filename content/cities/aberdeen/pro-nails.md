@@ -1,5 +1,5 @@
 ---
 title: "Pro Nails"
 url: /aberdeen/pro-nails/
-shop: Kosmetik
+shop: beauty
 ---

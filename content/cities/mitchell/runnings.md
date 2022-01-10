@@ -1,5 +1,5 @@
 ---
 title: "Runnings"
 url: /mitchell/runnings/
-shop: Warenhaus
+shop: department store
 ---

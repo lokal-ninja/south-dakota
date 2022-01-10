@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /mitchell/carquest/
-shop: Autoteile
+shop: car parts
 ---

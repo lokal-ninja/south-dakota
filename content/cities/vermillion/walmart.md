@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /vermillion/walmart/
-shop: Warenhaus
+shop: department store
 ---

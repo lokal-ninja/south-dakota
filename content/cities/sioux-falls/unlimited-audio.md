@@ -1,5 +1,5 @@
 ---
 title: "Unlimited Audio"
 url: /sioux-falls/unlimited-audio/
-shop: Elektronik
+shop: electronics
 ---

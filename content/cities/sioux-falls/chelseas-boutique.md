@@ -1,5 +1,5 @@
 ---
 title: "Chelsea's Boutique"
 url: /sioux-falls/chelseas-boutique/
-shop: Modehaus
+shop: boutique
 ---

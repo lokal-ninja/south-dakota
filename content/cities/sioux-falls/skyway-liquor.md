@@ -1,5 +1,5 @@
 ---
 title: "Skyway Liquor"
 url: /sioux-falls/skyway-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Greenberg's Jewelers"
 url: /sioux-falls/greenbergs-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

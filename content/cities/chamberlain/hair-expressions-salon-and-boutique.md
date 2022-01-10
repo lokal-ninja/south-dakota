@@ -1,5 +1,5 @@
 ---
 title: "Hair Expressions Salon and Boutique"
 url: /chamberlain/hair-expressions-salon-and-boutique/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Midway Storage"
 url: /deadwood/midway-storage/
-shop: Mieten
+shop: storage rental
 ---

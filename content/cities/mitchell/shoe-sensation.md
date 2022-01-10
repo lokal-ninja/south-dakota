@@ -1,5 +1,5 @@
 ---
 title: "Shoe Sensation"
 url: /mitchell/shoe-sensation/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Buckle"
 url: /aberdeen/buckle/
-shop: Kleidung
+shop: clothes
 ---

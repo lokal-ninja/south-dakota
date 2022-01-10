@@ -1,5 +1,5 @@
 ---
 title: "Royal Casino"
 url: /rapid-city/royal-casino/
-shop: Lotterie
+shop: lottery
 ---

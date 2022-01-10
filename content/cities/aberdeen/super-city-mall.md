@@ -1,5 +1,5 @@
 ---
 title: "Super City Mall"
 url: /aberdeen/super-city-mall/
-shop: Supermarkt
+shop: supermarket
 ---

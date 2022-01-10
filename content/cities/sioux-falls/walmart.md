@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /sioux-falls/walmart/
-shop: Warenhaus
+shop: department store
 ---

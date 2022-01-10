@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /spearfish/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

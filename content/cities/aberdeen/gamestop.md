@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /aberdeen/gamestop/
-shop: Videospiele
+shop: video games
 ---
