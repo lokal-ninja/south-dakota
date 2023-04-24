@@ -1,5 +1,5 @@
 ---
-title: "HomeSource Furniture and Floors"
+title: "HomeSource Furniture & Floors"
 url: /spearfish/homesource-furniture-and-floors/
 shop: furniture
 ---
