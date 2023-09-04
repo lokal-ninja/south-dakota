@@ -1,6 +1,6 @@
 ---
-title: Sioux Falls
+title: SIoux Falls
 url: /sioux-falls/
-latitude: 43.512
-longitude: -96.777
+latitude: 43.516
+longitude: -96.77
 ---
