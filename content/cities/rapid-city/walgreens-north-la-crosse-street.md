@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
-url: /rapid-city/walgreens/
+url: /rapid-city/walgreens-north-la-crosse-street/
 shop: chemist
 ---

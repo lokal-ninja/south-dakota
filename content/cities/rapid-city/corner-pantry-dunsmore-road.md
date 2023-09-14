@@ -1,5 +1,5 @@
 ---
 title: "Corner Pantry"
-url: /rapid-city/corner-pantry/
+url: /rapid-city/corner-pantry-dunsmore-road/
 shop: convenience
 ---
