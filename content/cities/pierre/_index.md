@@ -1,6 +1,6 @@
 ---
 title: Pierre
 url: /pierre/
-latitude: 44.368
-longitude: -100.355
+latitude: 44.373
+longitude: -100.318
 ---
