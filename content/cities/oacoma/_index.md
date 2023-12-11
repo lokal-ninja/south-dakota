@@ -2,5 +2,5 @@
 title: Oacoma
 url: /oacoma/
 latitude: 43.803
-longitude: -99.387
+longitude: -99.382
 ---
