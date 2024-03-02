@@ -1,6 +1,6 @@
 ---
 title: Dell Rapids
 url: /dell-rapids/
-latitude: 43.823
+latitude: 43.826
 longitude: -96.706
 ---
