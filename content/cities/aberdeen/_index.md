@@ -1,6 +1,6 @@
 ---
 title: Aberdeen
 url: /aberdeen/
-latitude: 45.462
-longitude: -98.441
+latitude: 45.454
+longitude: -98.489
 ---
