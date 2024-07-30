@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
-url: /rapid-city/holiday-east-highway-44/
+url: /rapid-city/holiday-west-chicago/
 shop: convenience
 ---
