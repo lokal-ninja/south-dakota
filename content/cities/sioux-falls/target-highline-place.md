@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /sioux-falls/target-south-louise-avenue/
+url: /sioux-falls/target-highline-place/
 shop: department store
 ---
