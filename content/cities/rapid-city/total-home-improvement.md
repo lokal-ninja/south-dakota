@@ -1,5 +1,5 @@
 ---
 title: "Total Home Improvement"
 url: /rapid-city/total-home-improvement/
-shop: doityourself
+shop: Baumarkt
 ---

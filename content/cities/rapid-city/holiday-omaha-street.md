@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /rapid-city/holiday-omaha-street/
-shop: convenience
+shop: Lebensmittel
 ---

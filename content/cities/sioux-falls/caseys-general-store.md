@@ -1,5 +1,5 @@
 ---
 title: "Casey's General Store"
 url: /sioux-falls/caseys-general-store/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /spearfish/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

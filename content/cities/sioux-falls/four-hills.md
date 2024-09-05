@@ -1,5 +1,5 @@
 ---
 title: "Four Hills"
 url: /sioux-falls/four-hills/
-shop: convenience
+shop: Lebensmittel
 ---

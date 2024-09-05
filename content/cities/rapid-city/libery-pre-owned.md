@@ -1,5 +1,5 @@
 ---
 title: "Libery Pre-Owned"
 url: /rapid-city/libery-pre-owned/
-shop: car
+shop: Autohaus
 ---

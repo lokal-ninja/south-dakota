@@ -1,5 +1,5 @@
 ---
 title: "Sam's Club"
 url: /rapid-city/sams-club/
-shop: wholesale
+shop: Großhandel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Discount Overstocks"
 url: /rapid-city/discount-overstocks/
-shop: convenience
+shop: Lebensmittel
 ---

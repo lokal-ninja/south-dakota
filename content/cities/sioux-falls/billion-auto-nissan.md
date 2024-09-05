@@ -1,5 +1,5 @@
 ---
 title: "Billion Auto Nissan"
 url: /sioux-falls/billion-auto-nissan/
-shop: car
+shop: Autohaus
 ---

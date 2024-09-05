@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /rapid-city/petco/
-shop: pet
+shop: Tiere
 ---

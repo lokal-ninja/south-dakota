@@ -1,5 +1,5 @@
 ---
 title: "Yesway"
 url: /rapid-city/yesway-cheyenne-boulevard/
-shop: convenience
+shop: Lebensmittel
 ---

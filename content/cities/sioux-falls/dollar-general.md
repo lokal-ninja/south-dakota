@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /sioux-falls/dollar-general/
-shop: variety store
+shop: Kramladen
 ---
