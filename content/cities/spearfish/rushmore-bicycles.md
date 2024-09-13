@@ -1,5 +1,5 @@
 ---
 title: "Rushmore Bicycles"
 url: /spearfish/rushmore-bicycles/
-shop: Fahrrad
+shop: bicycle
 ---

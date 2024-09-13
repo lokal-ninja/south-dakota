@@ -1,5 +1,5 @@
 ---
 title: "Jenner Equipment"
 url: /rapid-city/jenner-equipment/
-shop: Autohaus
+shop: car
 ---

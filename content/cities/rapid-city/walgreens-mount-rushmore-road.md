@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /rapid-city/walgreens-mount-rushmore-road/
-shop: Drogerie
+shop: chemist
 ---

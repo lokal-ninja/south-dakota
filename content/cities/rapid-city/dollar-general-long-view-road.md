@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /rapid-city/dollar-general-long-view-road/
-shop: Kramladen
+shop: variety store
 ---

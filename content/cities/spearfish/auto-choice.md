@@ -1,5 +1,5 @@
 ---
 title: "Auto Choice"
 url: /spearfish/auto-choice/
-shop: Autohaus
+shop: car
 ---

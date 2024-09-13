@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /sioux-falls/target/
-shop: Warenhaus
+shop: department store
 ---

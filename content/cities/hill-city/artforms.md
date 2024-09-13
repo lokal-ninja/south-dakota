@@ -1,5 +1,5 @@
 ---
 title: "Artforms"
 url: /hill-city/artforms/
-shop: Kramladen
+shop: variety store
 ---

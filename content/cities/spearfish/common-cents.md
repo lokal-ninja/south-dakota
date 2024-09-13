@@ -1,5 +1,5 @@
 ---
 title: "Common Cents"
 url: /spearfish/common-cents/
-shop: Lebensmittel
+shop: convenience
 ---

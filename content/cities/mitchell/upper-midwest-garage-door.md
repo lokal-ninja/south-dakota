@@ -1,5 +1,5 @@
 ---
 title: "Upper Midwest Garage Door"
 url: /mitchell/upper-midwest-garage-door/
-shop: Baumarkt
+shop: doityourself
 ---

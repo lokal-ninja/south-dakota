@@ -1,5 +1,5 @@
 ---
 title: "Lynn's Dakotamart"
 url: /belle-fourche/lynns-dakotamart/
-shop: Supermarkt
+shop: supermarket
 ---

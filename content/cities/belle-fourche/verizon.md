@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /belle-fourche/verizon/
-shop: Handy
+shop: mobile phone
 ---

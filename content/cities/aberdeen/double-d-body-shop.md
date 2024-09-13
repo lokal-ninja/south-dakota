@@ -1,5 +1,5 @@
 ---
 title: "Double D Body Shop"
 url: /aberdeen/double-d-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

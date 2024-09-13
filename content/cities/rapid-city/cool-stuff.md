@@ -1,5 +1,5 @@
 ---
 title: "Cool Stuff"
 url: /rapid-city/cool-stuff/
-shop: Videospiele
+shop: video games
 ---

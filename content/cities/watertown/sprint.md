@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /watertown/sprint/
-shop: Handy
+shop: mobile phone
 ---

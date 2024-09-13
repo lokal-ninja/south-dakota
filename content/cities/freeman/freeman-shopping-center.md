@@ -1,5 +1,5 @@
 ---
 title: "Freeman Shopping Center"
 url: /freeman/freeman-shopping-center/
-shop: Supermarkt
+shop: supermarket
 ---

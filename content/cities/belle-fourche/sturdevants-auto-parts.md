@@ -1,5 +1,5 @@
 ---
 title: "Sturdevant's Auto Parts"
 url: /belle-fourche/sturdevants-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

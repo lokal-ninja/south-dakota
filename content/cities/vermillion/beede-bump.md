@@ -1,5 +1,5 @@
 ---
 title: "Beede Bump"
 url: /vermillion/beede-bump/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pilot Travel Center"
 url: /rapid-city/pilot-travel-center/
-shop: Lebensmittel
+shop: convenience
 ---

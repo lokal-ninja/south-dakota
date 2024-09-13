@@ -1,5 +1,5 @@
 ---
 title: "Broken Arrow Trading"
 url: /keystone/broken-arrow-trading/
-shop: Schmuck
+shop: jewelry
 ---

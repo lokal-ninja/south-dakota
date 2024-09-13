@@ -1,5 +1,5 @@
 ---
 title: "Tires Plus"
 url: /watertown/tires-plus/
-shop: Reifen
+shop: tyres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oil Medics"
 url: /belle-fourche/oil-medics/
-shop: Autowerkstatt
+shop: car repair
 ---

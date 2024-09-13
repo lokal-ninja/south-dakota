@@ -1,5 +1,5 @@
 ---
 title: "Deadwood Gift Shoppe"
 url: /deadwood/deadwood-gift-shoppe/
-shop: Andenken
+shop: gift
 ---

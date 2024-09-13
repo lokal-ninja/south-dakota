@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /aberdeen/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

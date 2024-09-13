@@ -1,5 +1,5 @@
 ---
 title: "ABC Rentals"
 url: /sioux-falls/abc-rentals/
-shop: Werkzeuge
+shop: tools
 ---

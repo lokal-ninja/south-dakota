@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /rapid-city/dollar-general-east-saint-patrick-street/
-shop: Kramladen
+shop: variety store
 ---

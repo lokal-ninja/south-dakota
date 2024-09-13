@@ -1,5 +1,5 @@
 ---
 title: "Auto Doctor"
 url: /spearfish/auto-doctor/
-shop: Autowerkstatt
+shop: car repair
 ---

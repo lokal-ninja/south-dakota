@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /whiteclay/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /sioux-falls/burlington/
-shop: Warenhaus
+shop: department store
 ---

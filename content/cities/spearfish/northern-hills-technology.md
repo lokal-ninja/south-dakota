@@ -1,5 +1,5 @@
 ---
 title: "Northern Hills Technology"
 url: /spearfish/northern-hills-technology/
-shop: Computer
+shop: computer
 ---

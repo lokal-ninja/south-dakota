@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /sioux-falls/pandora/
-shop: Schmuck
+shop: jewelry
 ---

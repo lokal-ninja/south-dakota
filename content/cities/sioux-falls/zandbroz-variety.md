@@ -1,5 +1,5 @@
 ---
 title: "Zandbroz Variety"
 url: /sioux-falls/zandbroz-variety/
-shop: Kramladen
+shop: variety store
 ---

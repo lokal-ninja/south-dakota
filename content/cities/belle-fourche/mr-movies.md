@@ -1,5 +1,5 @@
 ---
 title: "Mr Movies"
 url: /belle-fourche/mr-movies/
-shop: Videothek
+shop: video
 ---

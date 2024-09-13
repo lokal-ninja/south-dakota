@@ -1,5 +1,5 @@
 ---
 title: "Fast Auto Glass"
 url: /vermillion/fast-auto-glass/
-shop: Autoteile
+shop: car parts
 ---

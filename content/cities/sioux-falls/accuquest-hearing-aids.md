@@ -1,5 +1,5 @@
 ---
 title: "AccuQuest Hearing Aids"
 url: /sioux-falls/accuquest-hearing-aids/
-shop: Sanitätshaus
+shop: medical supply
 ---

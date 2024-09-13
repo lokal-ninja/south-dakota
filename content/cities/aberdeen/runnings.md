@@ -1,5 +1,5 @@
 ---
 title: "Runnings"
 url: /aberdeen/runnings/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

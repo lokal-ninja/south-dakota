@@ -1,5 +1,5 @@
 ---
 title: "About-Face Barbers"
 url: /yankton/about-face-barbers/
-shop: Friseur
+shop: hairdresser
 ---

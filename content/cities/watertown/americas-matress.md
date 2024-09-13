@@ -1,5 +1,5 @@
 ---
 title: "America's Matress"
 url: /watertown/americas-matress/
-shop: Möbel
+shop: furniture
 ---

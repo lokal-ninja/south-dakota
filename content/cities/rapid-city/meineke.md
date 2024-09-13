@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /rapid-city/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

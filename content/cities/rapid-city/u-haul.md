@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /rapid-city/u-haul/
-shop: Mieten
+shop: storage rental
 ---

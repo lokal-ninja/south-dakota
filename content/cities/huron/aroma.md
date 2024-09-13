@@ -1,5 +1,5 @@
 ---
 title: "Aroma"
 url: /huron/aroma/
-shop: Bäckerei
+shop: bakery
 ---

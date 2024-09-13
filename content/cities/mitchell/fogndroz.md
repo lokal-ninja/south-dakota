@@ -1,5 +1,5 @@
 ---
 title: "Fogndroz"
 url: /mitchell/fogndroz/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

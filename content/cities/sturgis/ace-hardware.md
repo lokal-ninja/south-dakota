@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /sturgis/ace-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

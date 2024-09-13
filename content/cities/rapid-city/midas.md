@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /rapid-city/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

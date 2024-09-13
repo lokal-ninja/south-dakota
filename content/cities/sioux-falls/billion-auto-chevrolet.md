@@ -1,5 +1,5 @@
 ---
 title: "Billion Auto Chevrolet"
 url: /sioux-falls/billion-auto-chevrolet/
-shop: Autohaus
+shop: car
 ---

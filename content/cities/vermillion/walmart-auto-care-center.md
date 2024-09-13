@@ -1,5 +1,5 @@
 ---
 title: "Walmart Auto Care Center"
 url: /vermillion/walmart-auto-care-center/
-shop: Autowerkstatt
+shop: car repair
 ---

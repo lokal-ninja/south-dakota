@@ -1,5 +1,5 @@
 ---
 title: "Sturdevant's Auto Parts"
 url: /vermillion/sturdevants-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

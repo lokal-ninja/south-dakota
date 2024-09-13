@@ -1,5 +1,5 @@
 ---
 title: "Rushmore Sinclair"
 url: /rapid-city/rushmore-sinclair/
-shop: Lebensmittel
+shop: convenience
 ---

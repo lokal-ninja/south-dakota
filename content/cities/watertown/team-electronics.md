@@ -1,5 +1,5 @@
 ---
 title: "Team Electronics"
 url: /watertown/team-electronics/
-shop: Elektronik
+shop: electronics
 ---

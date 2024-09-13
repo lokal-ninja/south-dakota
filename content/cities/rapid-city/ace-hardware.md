@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /rapid-city/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

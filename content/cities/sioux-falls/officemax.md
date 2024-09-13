@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /sioux-falls/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---
