@@ -1,11 +1,11 @@
 id: 292256444
-type: way
+type: node
 latitude: 44.37758
 longitude: -103.72936
 postcode: "57732"
 city: Deadwood
-street: "Lower Main Street"
-housenumber: 643
+street: Lower Main Street
+housenumber: "643"
 phone: ""
 opening_hours: ""
 website: ""

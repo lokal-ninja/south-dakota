@@ -1,11 +1,11 @@
 id: 332145888
-type: way
+type: node
 latitude: 44.08477
 longitude: -103.27823
 postcode: "57702"
 city: Rapid City
-street: "Sturgis Road"
-housenumber: 3483
-phone: "+1 605 3481447"
+street: Sturgis Road
+housenumber: "3483"
+phone: +1 605 3481447
 opening_hours: ""
-website: "http://alsdandiautorepair.com/"
+website: http://alsdandiautorepair.com/

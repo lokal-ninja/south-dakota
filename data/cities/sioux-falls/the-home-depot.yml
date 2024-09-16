@@ -1,11 +1,11 @@
 id: 305037399
-type: way
+type: node
 latitude: 43.52355
 longitude: -96.77557
 postcode: "57106"
 city: SIoux Falls
-street: "South Louise Avenue"
-housenumber: 2523
-phone: "+1 605-361-7439"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/sioux-falls/sd/sioux-falls/57106/4301"
+street: South Louise Avenue
+housenumber: "2523"
+phone: +1 605-361-7439
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/sioux-falls/sd/sioux-falls/57106/4301

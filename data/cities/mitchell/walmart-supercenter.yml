@@ -1,11 +1,11 @@
 id: 247365062
-type: way
+type: node
 latitude: 43.68528
 longitude: -98.01082
 postcode: "57301"
 city: Mitchell
-street: "East Spruce Street"
-housenumber: 1101
-phone: "+1 605-995-6840"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2990/mitchell-sd/whats-new"
+street: East Spruce Street
+housenumber: "1101"
+phone: +1 605-995-6840
+opening_hours: 24/7
+website: https://www.walmart.com/store/2990/mitchell-sd/whats-new

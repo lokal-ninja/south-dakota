@@ -1,11 +1,11 @@
 id: 403111821
-type: way
+type: node
 latitude: 44.89057
 longitude: -97.11602
 postcode: "57201"
 city: Watertown
-street: "9th Avenue Southeast"
-housenumber: 107
+street: 9th Avenue Southeast
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

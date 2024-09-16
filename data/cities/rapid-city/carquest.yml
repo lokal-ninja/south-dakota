@@ -1,11 +1,11 @@
 id: 330959474
-type: way
+type: node
 latitude: 44.0795
 longitude: -103.19348
 postcode: "57701"
 city: Rapid City
-street: "Cambell Street"
-housenumber: 515
+street: Cambell Street
+housenumber: "515"
 phone: ""
 opening_hours: ""
 website: ""

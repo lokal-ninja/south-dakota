@@ -1,11 +1,11 @@
 id: 1027419163
-type: way
+type: node
 latitude: 43.59437
 longitude: -96.59249
 postcode: "57005"
 city: Brandon
-street: "West Holly Boulevard"
-housenumber: 101
+street: West Holly Boulevard
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

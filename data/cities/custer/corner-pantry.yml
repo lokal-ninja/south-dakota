@@ -1,11 +1,11 @@
 id: 232283021
-type: way
+type: node
 latitude: 43.76617
 longitude: -103.60227
 postcode: "57730"
 city: Custer
-street: "Mount Rushmore Road"
-housenumber: 349
+street: Mount Rushmore Road
+housenumber: "349"
 phone: ""
 opening_hours: ""
 website: ""

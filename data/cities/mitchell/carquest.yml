@@ -1,11 +1,11 @@
 id: 247777817
-type: way
+type: node
 latitude: 43.71944
 longitude: -98.0255
 postcode: "57301"
 city: Mitchell
-street: "North Main Street"
-housenumber: 1010
+street: North Main Street
+housenumber: "1010"
 phone: ""
 opening_hours: ""
 website: ""

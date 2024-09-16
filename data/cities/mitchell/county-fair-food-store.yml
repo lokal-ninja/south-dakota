@@ -1,11 +1,11 @@
 id: 803186953
-type: way
+type: node
 latitude: 43.7014
 longitude: -98.04324
 postcode: "57301"
 city: Mitchell
-street: "West Havens Street"
-housenumber: 1305
+street: West Havens Street
+housenumber: "1305"
 phone: ""
 opening_hours: ""
-website: "https://countyfairfoodstoresweb.rsaamerica.com/"
+website: https://countyfairfoodstoresweb.rsaamerica.com/

@@ -1,11 +1,11 @@
 id: 292110125
-type: way
+type: node
 latitude: 44.66232
 longitude: -103.85185
 postcode: "57717"
 city: Belle Fourche
-street: "National Street"
-housenumber: 600
+street: National Street
+housenumber: "600"
 phone: ""
 opening_hours: ""
 website: ""

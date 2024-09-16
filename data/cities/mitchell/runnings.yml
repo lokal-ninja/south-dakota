@@ -1,11 +1,11 @@
 id: 246993590
-type: way
+type: node
 latitude: 43.69664
 longitude: -98.02048
 postcode: "57301"
 city: Mitchell
-street: "South Burr Street"
-housenumber: 1313
+street: South Burr Street
+housenumber: "1313"
 phone: "+16059968305"
-opening_hours: "Mo-Fr 07:30-20:00; Sa 08:00-19:00; Su 09:00-18:00"
-website: "https://www.runnings.com/storelocator/store/mitchell"
+opening_hours: Mo-Fr 07:30-20:00; Sa 08:00-19:00; Su 09:00-18:00
+website: https://www.runnings.com/storelocator/store/mitchell

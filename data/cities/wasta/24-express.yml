@@ -1,11 +1,11 @@
 id: 301822389
-type: way
+type: node
 latitude: 44.06831
 longitude: -102.44854
 postcode: "57791"
 city: Wasta
-street: "C Avenue"
-housenumber: 51
-phone: "+1 605 993 3007"
+street: C Avenue
+housenumber: "51"
+phone: +1 605 993 3007
 opening_hours: ""
-website: "https://24-express-wasta.edan.io/"
+website: https://24-express-wasta.edan.io/

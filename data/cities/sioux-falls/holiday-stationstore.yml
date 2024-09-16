@@ -1,11 +1,11 @@
 id: 360582877
-type: way
+type: node
 latitude: 43.60241
 longitude: -96.71038
 postcode: "57104"
 city: Sioux Falls
-street: "North Cliff Avenue"
-housenumber: 5000
+street: North Cliff Avenue
+housenumber: "5000"
 phone: ""
 opening_hours: ""
 website: ""

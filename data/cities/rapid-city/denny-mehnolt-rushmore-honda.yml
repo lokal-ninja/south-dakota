@@ -1,11 +1,11 @@
 id: 500250900
-type: way
+type: node
 latitude: 44.105
 longitude: -103.18408
 postcode: "57701"
 city: Rapid City
-street: "East Mall Drive"
-housenumber: 1632
-phone: "+1-855-740-6928"
+street: East Mall Drive
+housenumber: "1632"
+phone: +1-855-740-6928
 opening_hours: ""
-website: "https://www.rushmorehonda.com/"
+website: https://www.rushmorehonda.com/

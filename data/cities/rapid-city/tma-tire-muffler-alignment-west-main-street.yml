@@ -1,11 +1,11 @@
 id: 306424657
-type: way
+type: node
 latitude: 44.08108
 longitude: -103.24917
 postcode: "57702"
 city: Rapid City
-street: "West Main Street"
-housenumber: 1811
+street: West Main Street
+housenumber: "1811"
 phone: ""
 opening_hours: ""
 website: ""

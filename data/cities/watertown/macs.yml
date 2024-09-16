@@ -1,11 +1,11 @@
 id: 479765436
-type: way
+type: node
 latitude: 44.88991
 longitude: -97.1203
 postcode: "57201"
 city: Watertown
-street: "9th Avenue Southwest"
-housenumber: 26
+street: 9th Avenue Southwest
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

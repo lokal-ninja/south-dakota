@@ -1,11 +1,11 @@
 id: 302934143
-type: way
+type: node
 latitude: 44.09899
 longitude: -103.1669
 postcode: "57703"
 city: Rapid City
-street: "Beale Street"
-housenumber: 3005
+street: Beale Street
+housenumber: "3005"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 312186724
-type: way
+type: node
 latitude: 44.08975
 longitude: -103.20218
 postcode: "57701"
 city: Rapid City
-street: "North LaCrosse Street"
-housenumber: 643
-phone: "(605) 716-5823"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 10:00-16:00"
+street: North LaCrosse Street
+housenumber: "643"
+phone: (605) 716-5823
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 10:00-16:00
 website: ""

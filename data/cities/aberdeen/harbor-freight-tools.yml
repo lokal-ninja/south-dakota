@@ -4,8 +4,8 @@ latitude: 45.46089
 longitude: -98.43965
 postcode: "57401"
 city: Aberdeen
-street: "6th Avenue Southeast"
-housenumber: 3315
-phone: "+1 605-824-1314"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/3315-6th-ave-se-suite-2c-aberdeen-57401?number=3067"
+street: 6th Avenue Southeast
+housenumber: "3315"
+phone: +1 605-824-1314
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/3315-6th-ave-se-suite-2c-aberdeen-57401?number=3067

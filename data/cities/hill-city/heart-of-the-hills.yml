@@ -1,11 +1,11 @@
 id: 428669541
-type: way
+type: node
 latitude: 43.93403
 longitude: -103.57554
 postcode: "57745"
 city: Hill City
-street: "Main Street"
-housenumber: 101
+street: Main Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

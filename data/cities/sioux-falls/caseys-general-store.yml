@@ -1,11 +1,11 @@
 id: 990081265
-type: way
+type: node
 latitude: 43.53006
 longitude: -96.65626
 postcode: "57110"
 city: Sioux Falls
-street: "East 26th Street"
-housenumber: 5810
+street: East 26th Street
+housenumber: "5810"
 phone: ""
 opening_hours: ""
 website: ""

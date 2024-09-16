@@ -1,11 +1,11 @@
 id: 970105344
-type: way
+type: node
 latitude: 44.87623
 longitude: -98.51648
 postcode: "57469"
 city: Redfield
-street: "East 7th Avenue"
-housenumber: 101
+street: East 7th Avenue
+housenumber: "101"
 phone: ""
 opening_hours: ""
-website: "https://www.hykefuneralhome.com/"
+website: https://www.hykefuneralhome.com/

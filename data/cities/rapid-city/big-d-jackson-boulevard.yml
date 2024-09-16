@@ -1,11 +1,11 @@
 id: 317146252
-type: way
+type: node
 latitude: 44.07163
 longitude: -103.25685
 postcode: "57702"
 city: Rapid City
-street: "Jackson Boulevard"
-housenumber: 2313
+street: Jackson Boulevard
+housenumber: "2313"
 phone: ""
 opening_hours: ""
 website: ""

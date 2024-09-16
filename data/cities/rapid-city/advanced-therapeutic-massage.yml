@@ -1,11 +1,11 @@
 id: 681507451
-type: way
+type: node
 latitude: 44.06841
 longitude: -103.19409
 postcode: "57701"
 city: Rapid City
-street: "Sioux Avenue"
-housenumber: 1804
+street: Sioux Avenue
+housenumber: "1804"
 phone: ""
 opening_hours: ""
 website: ""

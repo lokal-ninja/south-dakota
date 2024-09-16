@@ -1,11 +1,11 @@
 id: 292131010
-type: way
+type: node
 latitude: 44.67156
 longitude: -103.85132
 postcode: "57717"
 city: Belle Fourche
-street: "State Street"
-housenumber: 613
+street: State Street
+housenumber: "613"
 phone: ""
 opening_hours: ""
 website: ""

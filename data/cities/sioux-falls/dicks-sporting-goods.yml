@@ -1,11 +1,11 @@
 id: 501509328
-type: way
+type: node
 latitude: 43.51074
 longitude: -96.77417
 postcode: "57106"
 city: Sioux Falls
-street: "West Empire Mall"
-housenumber: 1080
-phone: "+1 605-362-6550"
-opening_hours: "Mo-Fr 09:30-21:00; Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/sd/sioux-falls/1124/"
+street: West Empire Mall
+housenumber: "1080"
+phone: +1 605-362-6550
+opening_hours: Mo-Fr 09:30-21:00; Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/sd/sioux-falls/1124/

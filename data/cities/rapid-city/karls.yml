@@ -1,11 +1,11 @@
 id: 296798921
-type: way
+type: node
 latitude: 44.10388
 longitude: -103.21303
 postcode: "57701"
 city: Rapid City
-street: "Knollwood Drive"
-housenumber: 8
+street: Knollwood Drive
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

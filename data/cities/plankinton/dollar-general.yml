@@ -1,11 +1,11 @@
 id: 1306636785
-type: way
+type: node
 latitude: 43.70751
 longitude: -98.48479
 postcode: "57368"
 city: Plankinton
-street: "Spaans Street"
-housenumber: 706
+street: Spaans Street
+housenumber: "706"
 phone: ""
 opening_hours: ""
 website: ""

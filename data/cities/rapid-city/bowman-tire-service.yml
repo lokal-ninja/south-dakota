@@ -1,11 +1,11 @@
 id: 303879963
-type: way
+type: node
 latitude: 44.0791
 longitude: -103.21634
 postcode: "57701"
 city: Rapid City
-street: "Main Street"
-housenumber: 3
+street: Main Street
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

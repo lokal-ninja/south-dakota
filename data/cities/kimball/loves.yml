@@ -1,11 +1,11 @@
 id: 1255422747
-type: way
+type: node
 latitude: 43.73618
 longitude: -98.95725
 postcode: "57355"
 city: Kimball
-street: "South Main Street"
-housenumber: 1100
+street: South Main Street
+housenumber: "1100"
 phone: ""
 opening_hours: ""
-website: "https://www.loves.com/locations/266"
+website: https://www.loves.com/locations/266

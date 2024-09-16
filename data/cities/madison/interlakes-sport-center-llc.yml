@@ -1,11 +1,11 @@
 id: 1205082606
-type: way
+type: node
 latitude: 43.99402
 longitude: -97.12332
 postcode: "57042"
 city: Madison
-street: "Southwest 10th Street"
-housenumber: 702
+street: Southwest 10th Street
+housenumber: "702"
 phone: "6052563556"
-opening_hours: "Mo-Fr 08:00-17:30"
-website: "https://www.interlakessportcenter.com/"
+opening_hours: Mo-Fr 08:00-17:30
+website: https://www.interlakessportcenter.com/

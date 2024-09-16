@@ -1,11 +1,11 @@
 id: 301713151
-type: way
+type: node
 latitude: 44.09596
 longitude: -103.17942
 postcode: "57703"
 city: Rapid City
-street: "Eglin Street"
-housenumber: 2220
+street: Eglin Street
+housenumber: "2220"
 phone: ""
 opening_hours: ""
 website: ""

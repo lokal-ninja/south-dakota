@@ -1,11 +1,11 @@
 id: 300828222
-type: way
+type: node
 latitude: 44.08642
 longitude: -103.27846
 postcode: "57702"
 city: Rapid City
-street: "Sturgis Road"
-housenumber: 3540
-phone: "+1 605 348 0129"
-opening_hours: "06:00-22:00"
+street: Sturgis Road
+housenumber: "3540"
+phone: +1 605 348 0129
+opening_hours: 06:00-22:00
 website: ""

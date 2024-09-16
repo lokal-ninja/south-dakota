@@ -1,11 +1,11 @@
 id: 965645864
-type: way
+type: node
 latitude: 42.52434
 longitude: -96.49669
 postcode: "57049"
 city: North Sioux City
-street: "South Derby Lane"
-housenumber: 100
+street: South Derby Lane
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

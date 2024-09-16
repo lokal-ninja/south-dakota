@@ -1,11 +1,11 @@
 id: 296967322
-type: way
+type: node
 latitude: 44.09996
 longitude: -103.22466
 postcode: "57701"
 city: Rapid City
-street: "Lindbergh Avenue"
-housenumber: 611
-phone: "+1 605-737-3955"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00; PH off"
-website: "https://www.goodwillgreatplains.org/"
+street: Lindbergh Avenue
+housenumber: "611"
+phone: +1 605-737-3955
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00; PH off
+website: https://www.goodwillgreatplains.org/

@@ -1,11 +1,11 @@
 id: 303523332
-type: way
+type: node
 latitude: 44.08732
 longitude: -103.28104
 postcode: "57702"
 city: Rapid City
-street: "Sturgis Road"
-housenumber: 3645
+street: Sturgis Road
+housenumber: "3645"
 phone: ""
 opening_hours: ""
 website: ""

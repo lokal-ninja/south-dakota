@@ -1,11 +1,11 @@
 id: 229125552
-type: way
+type: node
 latitude: 44.10878
 longitude: -103.21409
 postcode: "57701"
 city: Rapid City
-street: "North Maple Avenue"
-housenumber: 2200
+street: North Maple Avenue
+housenumber: "2200"
 phone: ""
 opening_hours: ""
-website: "https://rushmoremall.com"
+website: https://rushmoremall.com

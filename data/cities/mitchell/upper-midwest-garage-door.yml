@@ -1,11 +1,11 @@
 id: 912264427
-type: way
+type: node
 latitude: 43.69674
 longitude: -98.01266
 postcode: "57301"
 city: Mitchell
-street: "East Kay Avenue"
-housenumber: 900
-phone: "(605) 990-3667"
+street: East Kay Avenue
+housenumber: "900"
+phone: (605) 990-3667
 opening_hours: ""
-website: "https://www.uppermidwestgaragedoor.com/"
+website: https://www.uppermidwestgaragedoor.com/

@@ -1,11 +1,11 @@
 id: 296799940
-type: way
+type: node
 latitude: 44.09896
 longitude: -103.19873
 postcode: "57701"
 city: Rapid City
-street: "North LaCrosse Street"
-housenumber: 1200
-phone: "+1 605-342-9444"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/1604/rapid-city-sd/whats-new"
+street: North LaCrosse Street
+housenumber: "1200"
+phone: +1 605-342-9444
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/1604/rapid-city-sd/whats-new

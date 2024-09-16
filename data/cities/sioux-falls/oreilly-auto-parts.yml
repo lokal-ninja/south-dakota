@@ -1,11 +1,11 @@
 id: 522333326
-type: way
+type: node
 latitude: 43.53709
 longitude: -96.79028
 postcode: "57106"
 city: Sioux Falls
-street: "West 18th Street"
-housenumber: 5221
+street: West 18th Street
+housenumber: "5221"
 phone: ""
 opening_hours: ""
 website: ""

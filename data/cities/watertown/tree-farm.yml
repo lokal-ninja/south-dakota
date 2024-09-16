@@ -1,11 +1,11 @@
 id: 543998749
-type: way
+type: node
 latitude: 44.92729
 longitude: -97.08814
 postcode: "57201"
 city: Watertown
-street: "19th Street Northeast"
-housenumber: 2019
+street: 19th Street Northeast
+housenumber: "2019"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:30"
+opening_hours: Mo-Fr 08:00-17:30
 website: ""

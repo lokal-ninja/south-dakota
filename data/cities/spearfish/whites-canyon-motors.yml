@@ -1,11 +1,11 @@
 id: 206888500
-type: way
+type: node
 latitude: 44.47512
 longitude: -103.81321
 postcode: "57783"
 city: Spearfish
-street: "East Colorado Boulevard"
-housenumber: 2751
+street: East Colorado Boulevard
+housenumber: "2751"
 phone: ""
 opening_hours: ""
 website: ""

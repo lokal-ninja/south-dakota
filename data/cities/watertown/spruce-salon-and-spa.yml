@@ -1,11 +1,11 @@
 id: 557425378
-type: way
+type: node
 latitude: 44.88961
 longitude: -97.11336
 postcode: ""
 city: Watertown
-street: "9th Avenue Southeast"
-housenumber: 208
-phone: "+1-605-878-1500"
+street: 9th Avenue Southeast
+housenumber: "208"
+phone: +1-605-878-1500
 opening_hours: ""
-website: "https://sprucesalonandspal.wixsite.com/my-site"
+website: https://sprucesalonandspal.wixsite.com/my-site

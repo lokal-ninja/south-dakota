@@ -1,11 +1,11 @@
 id: 232147137
-type: way
+type: node
 latitude: 43.76698
 longitude: -103.60126
 postcode: "57730"
 city: Custer
-street: "North 5th Street"
-housenumber: 49
+street: North 5th Street
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

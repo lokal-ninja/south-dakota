@@ -1,11 +1,11 @@
 id: 300669929
-type: way
+type: node
 latitude: 44.0821
 longitude: -103.19322
 postcode: "57701"
 city: Rapid City
-street: "East Omaha Street"
-housenumber: 1120
+street: East Omaha Street
+housenumber: "1120"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 144520262
-type: way
+type: node
 latitude: 44.08043
 longitude: -103.25123
 postcode: "57702"
 city: Rapid City
-street: "Mountain View Road"
-housenumber: 730
-phone: "+1 605-342-8455"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://local.safeway.com/safeway/sd/rapid-city/730-mountain-view-rd.html"
+street: Mountain View Road
+housenumber: "730"
+phone: +1 605-342-8455
+opening_hours: Mo-Su 06:00-24:00
+website: https://local.safeway.com/safeway/sd/rapid-city/730-mountain-view-rd.html

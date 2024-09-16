@@ -1,11 +1,11 @@
 id: 238521548
-type: way
+type: node
 latitude: 44.49133
 longitude: -103.86631
 postcode: "57783"
 city: Spearfish
-street: "West Jackson Boulevard"
-housenumber: 538
+street: West Jackson Boulevard
+housenumber: "538"
 phone: ""
 opening_hours: ""
 website: ""

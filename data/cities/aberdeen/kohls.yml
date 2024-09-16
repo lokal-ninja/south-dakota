@@ -1,11 +1,11 @@
 id: 1007685314
-type: way
+type: node
 latitude: 45.46131
 longitude: -98.44183
 postcode: "57401"
 city: Aberdeen
-street: "6th Avenue Southeast"
-housenumber: 3315
-phone: "+1 605-226-3758"
-opening_hours: "Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/sd/aberdeen-1529.shtml"
+street: 6th Avenue Southeast
+housenumber: "3315"
+phone: +1 605-226-3758
+opening_hours: Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/sd/aberdeen-1529.shtml

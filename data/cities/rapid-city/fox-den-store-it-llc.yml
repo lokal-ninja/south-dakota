@@ -1,11 +1,11 @@
 id: 1093034471
-type: way
+type: node
 latitude: 44.00436
 longitude: -103.25579
 postcode: "57702"
 city: Rapid City
-street: "Moon Meadows Drive"
-housenumber: 2201
-phone: "1-605-791-2209"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.foxdenstore-it.com/rapid-city-moon-meadows"
+street: Moon Meadows Drive
+housenumber: "2201"
+phone: 1-605-791-2209
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.foxdenstore-it.com/rapid-city-moon-meadows

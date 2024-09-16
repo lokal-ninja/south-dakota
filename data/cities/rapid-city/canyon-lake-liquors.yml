@@ -1,11 +1,11 @@
 id: 300522324
-type: way
+type: node
 latitude: 44.0621
 longitude: -103.28944
 postcode: "57702"
 city: Rapid City
-street: "Canyon Lake Drive"
-housenumber: 4244
+street: Canyon Lake Drive
+housenumber: "4244"
 phone: ""
 opening_hours: ""
 website: ""

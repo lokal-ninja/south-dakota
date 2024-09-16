@@ -1,11 +1,11 @@
 id: 301841143
-type: way
+type: node
 latitude: 44.07759
 longitude: -103.15072
 postcode: "57703"
 city: Rapid City
-street: "Timmons Boulevard"
-housenumber: 747
-phone: "+1 605 393 3018"
-opening_hours: "07:00-22:00"
-website: "https://www.timmonsmarket.com/"
+street: Timmons Boulevard
+housenumber: "747"
+phone: +1 605 393 3018
+opening_hours: 07:00-22:00
+website: https://www.timmonsmarket.com/

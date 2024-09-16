@@ -1,11 +1,11 @@
 id: 109276378
-type: way
+type: node
 latitude: 43.51008
 longitude: -96.77526
 postcode: "57106"
 city: Sioux Falls
-street: "West Empire Place"
-housenumber: 5000
+street: West Empire Place
+housenumber: "5000"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-18:00"
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-18:00
 website: ""

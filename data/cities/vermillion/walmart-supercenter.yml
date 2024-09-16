@@ -1,11 +1,11 @@
 id: 159358345
-type: way
+type: node
 latitude: 42.79204
 longitude: -96.93689
 postcode: "57069"
 city: Vermillion
-street: "Princeton Avenue"
-housenumber: 1207
-phone: "+1 605-624-0215"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/3734/vermillion-sd/whats-new"
+street: Princeton Avenue
+housenumber: "1207"
+phone: +1 605-624-0215
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/3734/vermillion-sd/whats-new

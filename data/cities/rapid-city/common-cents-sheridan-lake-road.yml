@@ -1,11 +1,11 @@
 id: 255625701
-type: way
+type: node
 latitude: 44.05832
 longitude: -103.26149
 postcode: "57702"
 city: Rapid City
-street: "Sheridan Lake Road"
-housenumber: 2808
-phone: "+1 605 348 3565"
-opening_hours: "24/7"
+street: Sheridan Lake Road
+housenumber: "2808"
+phone: +1 605 348 3565
+opening_hours: 24/7
 website: ""

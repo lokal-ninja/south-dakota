@@ -1,11 +1,11 @@
 id: 498384405
-type: way
+type: node
 latitude: 44.03462
 longitude: -103.21853
 postcode: "57701"
 city: Rapid City
-street: "Stumer Road"
-housenumber: 100
-phone: "+1 605-877-3291"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/3872/rapid-city-sd/whats-new"
+street: Stumer Road
+housenumber: "100"
+phone: +1 605-877-3291
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/3872/rapid-city-sd/whats-new

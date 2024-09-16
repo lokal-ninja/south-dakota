@@ -1,11 +1,11 @@
 id: 296970580
-type: way
+type: node
 latitude: 44.08616
 longitude: -103.21424
 postcode: "57701"
 city: Rapid City
-street: "East Boulevard North"
-housenumber: 401
+street: East Boulevard North
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

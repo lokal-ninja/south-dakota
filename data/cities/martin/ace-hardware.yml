@@ -1,11 +1,11 @@
 id: 885396190
-type: way
+type: node
 latitude: 43.17171
 longitude: -101.72775
 postcode: "57551"
 city: Martin
-street: "East US 18"
-housenumber: 301
-phone: "+1 605-685-6730"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-17:00"
+street: East US 18
+housenumber: "301"
+phone: +1 605-685-6730
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-17:00
 website: ""

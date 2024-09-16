@@ -1,11 +1,11 @@
 id: 564850281
-type: way
+type: node
 latitude: 43.83111
 longitude: -96.72437
 postcode: "57022"
 city: Dell Rapids
-street: "North Highway 77"
-housenumber: 1002
+street: North Highway 77
+housenumber: "1002"
 phone: ""
 opening_hours: ""
 website: ""

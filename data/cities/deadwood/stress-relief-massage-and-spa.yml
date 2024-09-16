@@ -1,11 +1,11 @@
 id: 816024617
-type: way
+type: node
 latitude: 44.37307
 longitude: -103.73454
 postcode: "57732"
 city: Deadwood
-street: "Upper Main Street"
-housenumber: 802
-phone: "605-722-1396"
+street: Upper Main Street
+housenumber: "802"
+phone: 605-722-1396
 opening_hours: ""
-website: "https://www.stressreliefspa.com/"
+website: https://www.stressreliefspa.com/

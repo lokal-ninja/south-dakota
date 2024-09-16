@@ -1,11 +1,11 @@
 id: 302002369
-type: way
+type: node
 latitude: 44.08733
 longitude: -103.19718
 postcode: "57701"
 city: Rapid City
-street: "East North Street"
-housenumber: 819
+street: East North Street
+housenumber: "819"
 phone: ""
 opening_hours: ""
 website: ""

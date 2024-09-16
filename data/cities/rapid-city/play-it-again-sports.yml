@@ -1,11 +1,11 @@
 id: 312186725
-type: way
+type: node
 latitude: 44.08964
 longitude: -103.20128
 postcode: "57701"
 city: Rapid City
-street: "North LaCrosse Street"
-housenumber: 660
+street: North LaCrosse Street
+housenumber: "660"
 phone: ""
 opening_hours: ""
 website: ""

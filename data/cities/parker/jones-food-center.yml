@@ -1,11 +1,11 @@
 id: 1208134177
-type: way
+type: node
 latitude: 43.39957
 longitude: -97.12108
 postcode: "57053"
 city: Parker
-street: "State Highway 44"
-housenumber: 27516
-phone: "+1-605-318-7290"
-opening_hours: "Mo-Su 06:00-22:00"
+street: State Highway 44
+housenumber: "27516"
+phone: +1-605-318-7290
+opening_hours: Mo-Su 06:00-22:00
 website: ""

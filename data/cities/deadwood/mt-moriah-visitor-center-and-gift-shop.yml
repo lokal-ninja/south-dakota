@@ -1,11 +1,11 @@
 id: 815008527
-type: way
+type: node
 latitude: 44.37484
 longitude: -103.72412
 postcode: "57732"
 city: Deadwood
-street: "Mount Moriah Drive"
-housenumber: 1
+street: Mount Moriah Drive
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 300671646
-type: way
+type: node
 latitude: 44.08068
 longitude: -103.25264
 postcode: "57702"
 city: Rapid City
-street: "Mountain View Road"
-housenumber: 601
+street: Mountain View Road
+housenumber: "601"
 phone: ""
 opening_hours: ""
 website: ""

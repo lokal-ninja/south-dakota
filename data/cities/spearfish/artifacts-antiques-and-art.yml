@@ -1,11 +1,11 @@
 id: 388799127
-type: way
+type: node
 latitude: 44.49082
 longitude: -103.85899
 postcode: "57783"
 city: Spearfish
-street: "North Main Street"
-housenumber: 740
+street: North Main Street
+housenumber: "740"
 phone: ""
 opening_hours: ""
 website: ""

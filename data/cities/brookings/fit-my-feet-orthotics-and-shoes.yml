@@ -4,8 +4,8 @@ latitude: 44.3133
 longitude: -96.76181
 postcode: "57006"
 city: Brookings
-street: "25th Avenue"
-housenumber: 720
-phone: "+1-605-592-9613"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://fitmyfeet.com/locations/brookings"
+street: 25th Avenue
+housenumber: "720"
+phone: +1-605-592-9613
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://fitmyfeet.com/locations/brookings

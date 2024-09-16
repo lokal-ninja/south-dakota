@@ -1,11 +1,11 @@
 id: 1194847513
-type: way
+type: node
 latitude: 43.60277
 longitude: -96.78051
 postcode: "57107"
 city: Sioux Falls
-street: "West 61st Circle North"
-housenumber: 4201
-phone: "+1 833-472-7118"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/sd/sioux-falls/4201-w-61st-circle-n"
+street: West 61st Circle North
+housenumber: "4201"
+phone: +1 833-472-7118
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/sd/sioux-falls/4201-w-61st-circle-n

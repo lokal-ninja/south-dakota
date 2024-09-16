@@ -1,11 +1,11 @@
 id: 484394300
-type: way
+type: node
 latitude: 44.09049
 longitude: -103.18102
 postcode: "57703"
 city: Rapid City
-street: "North Creek Drive"
-housenumber: 710
-phone: "+1 605-399-3922"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://shop.menards.com/store-details/store.html?store=3133"
+street: North Creek Drive
+housenumber: "710"
+phone: +1 605-399-3922
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://shop.menards.com/store-details/store.html?store=3133

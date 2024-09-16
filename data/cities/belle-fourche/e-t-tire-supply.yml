@@ -1,11 +1,11 @@
 id: 292266922
-type: way
+type: node
 latitude: 44.65374
 longitude: -103.85779
 postcode: "57717"
 city: Belle Fourche
-street: "5th Avenue"
-housenumber: 1905
+street: 5th Avenue
+housenumber: "1905"
 phone: ""
 opening_hours: ""
 website: ""

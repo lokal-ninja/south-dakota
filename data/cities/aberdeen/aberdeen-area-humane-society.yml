@@ -1,11 +1,11 @@
 id: 562582136
-type: way
+type: node
 latitude: 45.43744
 longitude: -98.53624
 postcode: "57401"
 city: Aberdeen
-street: "385th Avenue"
-housenumber: 13452
+street: 385th Avenue
+housenumber: "13452"
 phone: ""
-opening_hours: "Tu-Su 11:30-17:00"
+opening_hours: Tu-Su 11:30-17:00
 website: ""

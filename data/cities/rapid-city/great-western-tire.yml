@@ -1,11 +1,11 @@
 id: 298604260
-type: way
+type: node
 latitude: 44.10382
 longitude: -103.17079
 postcode: "57701"
 city: Rapid City
-street: "Dyess Avenue"
-housenumber: 1645
+street: Dyess Avenue
+housenumber: "1645"
 phone: ""
 opening_hours: ""
 website: ""

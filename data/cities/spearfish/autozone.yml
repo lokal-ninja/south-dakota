@@ -1,11 +1,11 @@
 id: 307582297
-type: way
+type: node
 latitude: 44.47875
 longitude: -103.81605
 postcode: "57783"
 city: Spearfish
-street: "Platinum Drive"
-housenumber: 2429
+street: Platinum Drive
+housenumber: "2429"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/sd/spearfish/2429-platinum-dr.html"
+website: https://www.autozone.com/locations/sd/spearfish/2429-platinum-dr.html

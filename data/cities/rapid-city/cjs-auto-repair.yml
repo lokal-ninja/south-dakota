@@ -1,11 +1,11 @@
 id: 302768936
-type: way
+type: node
 latitude: 44.08628
 longitude: -103.27795
 postcode: "57702"
 city: Rapid City
-street: "West Chicago Street"
-housenumber: 3570
+street: West Chicago Street
+housenumber: "3570"
 phone: ""
 opening_hours: ""
 website: ""

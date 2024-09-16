@@ -1,11 +1,11 @@
 id: 305037386
-type: way
+type: node
 latitude: 43.51945
 longitude: -96.77409
 postcode: "57106"
 city: Sioux Falls
-street: "South Louise Avenue"
-housenumber: 3201
-phone: "+1 605-362-0119"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/sioux-falls-sd-sams-club/8165"
+street: South Louise Avenue
+housenumber: "3201"
+phone: +1 605-362-0119
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/sioux-falls-sd-sams-club/8165

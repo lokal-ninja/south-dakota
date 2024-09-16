@@ -4,8 +4,8 @@ latitude: 43.55049
 longitude: -96.72076
 postcode: "57103"
 city: Sioux Falls
-street: "North Weber Avenue"
-housenumber: 335
+street: North Weber Avenue
+housenumber: "335"
 phone: ""
 opening_hours: ""
-website: "https://www.johnstonesupply.com/storefront/findByStateOrZip.ep?state=SD"
+website: https://www.johnstonesupply.com/storefront/findByStateOrZip.ep?state=SD

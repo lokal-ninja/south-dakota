@@ -1,11 +1,11 @@
 id: 1115261625
-type: way
+type: node
 latitude: 44.47398
 longitude: -103.81374
 postcode: "57783"
 city: Spearfish
-street: "4th Avenue"
-housenumber: 2905
-phone: "+1 605-642-8836"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 09:00-16:00"
+street: 4th Avenue
+housenumber: "2905"
+phone: +1 605-642-8836
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 09:00-16:00
 website: ""

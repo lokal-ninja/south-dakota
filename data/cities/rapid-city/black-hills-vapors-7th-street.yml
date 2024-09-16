@@ -4,8 +4,8 @@ latitude: 44.08105
 longitude: -103.22918
 postcode: "57701"
 city: Rapid City
-street: "7th Street"
-housenumber: 509
-phone: "(605) 791-5505"
-opening_hours: "Mo-Su 09:00-21:00"
+street: 7th Street
+housenumber: "509"
+phone: (605) 791-5505
+opening_hours: Mo-Su 09:00-21:00
 website: ""

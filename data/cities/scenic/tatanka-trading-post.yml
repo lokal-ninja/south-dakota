@@ -1,11 +1,11 @@
 id: 969650531
-type: way
+type: node
 latitude: 43.77949
 longitude: -102.55325
 postcode: "57780"
 city: Scenic
-street: "1st Avenue East"
-housenumber: 20
-phone: "+1-605-993-3303"
-opening_hours: "08:00-18:00"
+street: 1st Avenue East
+housenumber: "20"
+phone: +1-605-993-3303
+opening_hours: 08:00-18:00
 website: ""

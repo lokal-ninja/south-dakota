@@ -1,11 +1,11 @@
 id: 565102611
-type: way
+type: node
 latitude: 45.45866
 longitude: -98.4874
 postcode: "57401"
 city: Aberdeen
-street: "6th Avenue Southeast"
-housenumber: 20
+street: 6th Avenue Southeast
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

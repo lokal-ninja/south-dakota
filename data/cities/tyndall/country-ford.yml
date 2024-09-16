@@ -1,11 +1,11 @@
 id: 725858348
-type: way
+type: node
 latitude: 42.99435
 longitude: -97.89173
 postcode: "57066"
 city: Tyndall
-street: "Ford Avenue"
-housenumber: 30320
+street: Ford Avenue
+housenumber: "30320"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.4599
 longitude: -98.45718
 postcode: "57401"
 city: Aberdeen
-street: "6th Avenue Southeast"
-housenumber: 2201
-phone: "+1 605-225-5888"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-19:00"
-website: "https://www.tractorsupply.com/tsc/store_ABERDEEN-SD-57401_585"
+street: 6th Avenue Southeast
+housenumber: "2201"
+phone: +1 605-225-5888
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-19:00
+website: https://www.tractorsupply.com/tsc/store_ABERDEEN-SD-57401_585

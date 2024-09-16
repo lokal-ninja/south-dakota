@@ -1,11 +1,11 @@
 id: 564850296
-type: way
+type: node
 latitude: 43.82295
 longitude: -96.72192
 postcode: "57022"
 city: Dell Rapids
-street: "West 4th Street"
-housenumber: 309
+street: West 4th Street
+housenumber: "309"
 phone: ""
 opening_hours: ""
 website: ""

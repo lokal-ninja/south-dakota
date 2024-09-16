@@ -1,11 +1,11 @@
 id: 305037391
-type: way
+type: node
 latitude: 43.51974
 longitude: -96.77715
 postcode: "57106"
 city: Sioux Falls
-street: "South Shirley Avenue"
-housenumber: 3001
+street: South Shirley Avenue
+housenumber: "3001"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3064"
+website: https://www.menards.com/store-details/store.html?store=3064
