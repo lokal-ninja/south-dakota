@@ -1,6 +1,6 @@
 ---
 title: Custer
 url: /custer/
-latitude: 43.765
-longitude: -103.605
+latitude: 43.766
+longitude: -103.602
 ---
