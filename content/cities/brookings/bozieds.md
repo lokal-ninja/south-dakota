@@ -1,5 +1,5 @@
 ---
-title: "bozieds"
+title: "Bozieds"
 url: /brookings/bozieds/
 shop: convenience
 ---
