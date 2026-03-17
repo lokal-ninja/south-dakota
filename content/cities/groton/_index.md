@@ -1,6 +1,6 @@
 ---
 title: Groton
 url: /groton/
-latitude: 45.459
-longitude: -98.108
+latitude: 45.457
+longitude: -98.103
 ---
