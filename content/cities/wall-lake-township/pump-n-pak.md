@@ -1,5 +1,5 @@
 ---
 title: "Pump 'n Pak"
-url: /sioux-falls/pump-n-pak/
+url: /wall-lake-township/pump-n-pak/
 shop: convenience
 ---
