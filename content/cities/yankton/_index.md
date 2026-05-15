@@ -1,6 +1,6 @@
 ---
 title: Yankton
 url: /yankton/
-latitude: 42.89
-longitude: -97.399
+latitude: 42.87
+longitude: -97.393
 ---
