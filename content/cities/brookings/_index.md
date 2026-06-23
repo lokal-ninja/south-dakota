@@ -1,6 +1,6 @@
 ---
 title: Brookings
 url: /brookings/
-latitude: 44.304
-longitude: -96.789
+latitude: 44.3
+longitude: -96.769
 ---
