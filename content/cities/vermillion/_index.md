@@ -1,6 +1,6 @@
 ---
 title: Vermillion
 url: /vermillion/
-latitude: 42.786
-longitude: -96.918
+latitude: 42.793
+longitude: -96.933
 ---
