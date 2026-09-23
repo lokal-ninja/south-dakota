@@ -1,6 +1,6 @@
 ---
 title: Clear Lake
 url: /clear-lake/
-latitude: 44.747
-longitude: -96.684
+latitude: 44.755
+longitude: -96.683
 ---
